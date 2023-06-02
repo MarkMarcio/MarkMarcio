@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarkMarcio
-- 👀 I’m interested in ...
+- 👀 I’m interested in  adquirir conhecimento para trabalhar com Front-end e Desenvolver Python para automação e analise de dado.
 - 🌱 I’m currently learning  Html5, Css3, JavaScript e Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ..
